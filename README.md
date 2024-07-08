@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 # Jena Pantano's Portfolio
 <div align="center">
-<a href="https://github.com/jpantano30/JenaPantano_Portfolio"><img src="/Other Files/Portfolio_home.png" height="400"></a>
+<a href="https://jpantano30.github.io/JenaPantano_Portfolio/"><img src="/Other Files/Portfolio_home.png" height="400"></a>
 </div>
 
 <div align="center">
@@ -43,7 +43,7 @@ Above you can find a link to my porfolio page where you can view information abo
 #
 
 ### Deployed Link 🔗
-<a href="https://github.com/jpantano30/JenaPantano_Portfolio"> Jena Pantano's Portfolio </a> 
+<a href="https://jpantano30.github.io/JenaPantano_Portfolio/"> Jena Pantano's Portfolio </a> 
 
 #
 
